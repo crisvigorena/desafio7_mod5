@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "com.desafiolatam.viewmodel.app-mergeDebugResources-33:/layout/activity_main.xml",
+        "source": "com.desafiolatam.viewmodel.app-main-36:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.desafiolatam.viewmodel.app-mergeDebugResources-33:/layout/fragment_upper.xml",
+        "source": "com.desafiolatam.viewmodel.app-main-36:/layout/fragment_upper.xml"
+    },
+    {
+        "merged": "com.desafiolatam.viewmodel.app-mergeDebugResources-33:/layout/fragment_lower.xml",
+        "source": "com.desafiolatam.viewmodel.app-main-36:/layout/fragment_lower.xml"
+    }
+]
