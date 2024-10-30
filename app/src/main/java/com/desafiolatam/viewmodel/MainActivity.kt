@@ -6,7 +6,7 @@ import androidx.appcompat.app.AppCompatActivity
 import androidx.lifecycle.lifecycleScope
 import com.desafiolatam.viewmodel.databinding.ActivityMainBinding
 import kotlinx.coroutines.flow.collect
-//falta interactividad con botones
+
 
 class MainActivity : AppCompatActivity() {
 
