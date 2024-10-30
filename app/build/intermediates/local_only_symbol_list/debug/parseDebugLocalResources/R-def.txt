@@ -1,13 +1,17 @@
 R_DEF: Internal format may change without notice
 local
 color black
+color ic_launcher_background
+color ic_launcherset_background
 color purple_200
 color purple_500
 color purple_700
 color teal_200
 color teal_700
 color white
+drawable dados
 drawable ic_launcher_background
+drawable ic_launcher_fore
 drawable ic_launcher_foreground
 id lower_fragment
 id tv_lower_click
@@ -20,6 +24,8 @@ layout fragment_lower
 layout fragment_upper
 mipmap ic_launcher
 mipmap ic_launcher_round
+mipmap ic_launcherset
+mipmap ic_launcherset_round
 string app_name
 style Theme.ViewModel
 xml backup_rules

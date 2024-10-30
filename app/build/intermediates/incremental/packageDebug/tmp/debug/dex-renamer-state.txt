@@ -1,4 +1,4 @@
-#Wed Oct 30 01:58:49 CLST 2024
+#Wed Oct 30 07:03:59 CLST 2024
 base.0=D\:\\Developer\\Desarrollo antroid trainee\\Generacion 17 modulo 5 (kotlin)\\des7\\desafio7_mod5\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
 base.1=D\:\\Developer\\Desarrollo antroid trainee\\Generacion 17 modulo 5 (kotlin)\\des7\\desafio7_mod5\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
 base.2=D\:\\Developer\\Desarrollo antroid trainee\\Generacion 17 modulo 5 (kotlin)\\des7\\desafio7_mod5\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\15\\classes.dex
